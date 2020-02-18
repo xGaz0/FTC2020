@@ -27,26 +27,6 @@ public class Blue_First_Variant extends AutonautsAPI {
 
         boolean i = true;
         INIT();
-        telemetry.addData("Status", "Initialized");
-        telemetry.update();
-
-//        leftFront  = hardwareMap.get(DcMotor.class, "MotorFrontLeft");
-//        rightFront = hardwareMap.get(DcMotor.class, "MotorFrontRight");
-//        leftBack   = hardwareMap.get(DcMotor.class, "MotorBackLeft");
-//        rightBack  = hardwareMap.get(DcMotor.class, "MotorBackRight");
-//
-//        getServo = hardwareMap.get(Servo.class, "getServo");
-//        foundation1 = hardwareMap.get(Servo.class, "servoFoundation1");
-//        foundation2 = hardwareMap.get(Servo.class, "servoFoundation2");
-//
-//
-//        leftFront.setMode  (DcMotor.RunMode.STOP_AND_RESET_ENCODER);
-//        leftBack.setMode   (DcMotor.RunMode.STOP_AND_RESET_ENCODER);
-//        rightFront.setMode (DcMotor.RunMode.STOP_AND_RESET_ENCODER);
-//        rightBack.setMode  (DcMotor.RunMode.STOP_AND_RESET_ENCODER);
-//
-//        waitForStart();
-//        runtime.reset();
 
         while (opModeIsActive()) {
             if(i){
