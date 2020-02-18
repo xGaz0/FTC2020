@@ -124,7 +124,7 @@ public class OpMOde extends LinearOpMode {
                 parkingMotor.setPower(0);
             }
             if (gamepad2.right_stick_button) {
-                handServo.setPosition(1);
+                handServo.setPosition(0.6);
             } else{
                 handServo.setPosition(0);
             }
