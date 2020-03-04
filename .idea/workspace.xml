@@ -5,17 +5,51 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ad4e553-a176-4b05-8bb3-0a6cc27d689f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/classAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/jarAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/javaCompile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/taskHistory.bin" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/classAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Team16877Code/Team16877Code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/Team16877Code.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team16877Code/TeamCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/TeamCode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team16877Code/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team16877Code/build.release.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/build.release.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team16877Code/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/android/arch/lifecycle/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/android/arch/lifecycle/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team16877Code/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/android/support/compat/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/android/support/compat/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team16877Code/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/androidx/versionedparcelable/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/androidx/versionedparcelable/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team16877Code/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/google/blocks/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/google/blocks/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team16877Code/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/google/blocks/ftcrobotcontroller/onbotjava/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/google/blocks/ftcrobotcontroller/onbotjava/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team16877Code/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/google/ftcresearch/tfod/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/google/ftcresearch/tfod/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team16877Code/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/qualcomm/WirelessP2p/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/qualcomm/WirelessP2p/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team16877Code/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/qualcomm/ftccommon/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/qualcomm/ftccommon/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team16877Code/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/qualcomm/ftcrobotcontroller/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/qualcomm/ftcrobotcontroller/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team16877Code/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/qualcomm/hardware/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/qualcomm/hardware/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team16877Code/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/qualcomm/robotcore/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/qualcomm/robotcore/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team16877Code/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/org/firstinspires/ftc/robotcore/internal/webserver/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/org/firstinspires/ftc/robotcore/internal/webserver/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team16877Code/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/org/firstinspires/inspection/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/org/firstinspires/inspection/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team16877Code/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/org/tensorflow/lite/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/org/tensorflow/lite/R.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Team16877Code/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team16877Code/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Team16877Code/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team16877Code/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/My9JkFiQTaIthIp01PbHixcNYhg=" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/My9JkFiQTaIthIp01PbHixcNYhg=" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Team16877Code/build/intermediates/javac/debug/classes/org/firstinspires/ftc/Team16877Code/AutonautsAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/build/intermediates/javac/debug/classes/org/firstinspires/ftc/Team16877Code/AutonautsAPI.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Team16877Code/build/intermediates/javac/debug/classes/org/firstinspires/ftc/Team16877Code/OpMOde.class" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/build/intermediates/javac/debug/classes/org/firstinspires/ftc/Team16877Code/OpMOde.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Team16877Code/build/intermediates/javac/debug/classes/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Blue_First_Variant.class" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/build/intermediates/javac/debug/classes/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Blue_First_Variant.class" afterDir="false" />
@@ -24,6 +58,7 @@
       <change beforePath="$PROJECT_DIR$/Team16877Code/build/intermediates/javac/debug/classes/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Red_First_Variant.class" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/build/intermediates/javac/debug/classes/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Red_First_Variant.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Team16877Code/build/intermediates/javac/debug/classes/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Red_Second_Variant.class" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/build/intermediates/javac/debug/classes/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Red_Second_Variant.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Team16877Code/build/intermediates/javac/debug/classes/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Red_Third_Variant.class" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/build/intermediates/javac/debug/classes/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Red_Third_Variant.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team16877Code/build/intermediates/merged_java_res/debug/out.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/build/intermediates/merged_java_res/debug/out.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Team16877Code/build/intermediates/transforms/dexBuilder/debug/0/org/firstinspires/ftc/Team16877Code/AutonautsAPI.dex" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/build/intermediates/transforms/dexBuilder/debug/0/org/firstinspires/ftc/Team16877Code/AutonautsAPI.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Team16877Code/build/intermediates/transforms/dexBuilder/debug/0/org/firstinspires/ftc/Team16877Code/OpMOde.dex" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/build/intermediates/transforms/dexBuilder/debug/0/org/firstinspires/ftc/Team16877Code/OpMOde.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Team16877Code/build/intermediates/transforms/dexBuilder/debug/0/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Blue_First_Variant.dex" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/build/intermediates/transforms/dexBuilder/debug/0/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Blue_First_Variant.dex" afterDir="false" />
@@ -33,7 +68,18 @@
       <change beforePath="$PROJECT_DIR$/Team16877Code/build/intermediates/transforms/dexBuilder/debug/0/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Red_Second_Variant.dex" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/build/intermediates/transforms/dexBuilder/debug/0/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Red_Second_Variant.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Team16877Code/build/intermediates/transforms/dexBuilder/debug/0/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Red_Third_Variant.dex" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/build/intermediates/transforms/dexBuilder/debug/0/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Red_Third_Variant.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Team16877Code/build/outputs/apk/debug/Team16877Code-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/build/outputs/apk/debug/Team16877Code-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team16877Code/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team16877Code/src/main/java/org/firstinspires/ftc/Team16877Code/AutonautsAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/src/main/java/org/firstinspires/ftc/Team16877Code/AutonautsAPI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Team16877Code/src/main/java/org/firstinspires/ftc/Team16877Code/OpMOde.java" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/src/main/java/org/firstinspires/ftc/Team16877Code/OpMOde.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team16877Code/src/main/java/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Blue_First_Variant.java" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/src/main/java/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Blue_First_Variant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team16877Code/src/main/java/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Blue_Second_Variant.java" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/src/main/java/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Blue_Second_Variant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team16877Code/src/main/java/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Blue_Third_Variant.java" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/src/main/java/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Blue_Third_Variant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team16877Code/src/main/java/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Red_First_Variant.java" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/src/main/java/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Red_First_Variant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team16877Code/src/main/java/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Red_Second_Variant.java" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/src/main/java/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Red_Second_Variant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team16877Code/src/main/java/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Red_Third_Variant.java" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/src/main/java/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Red_Third_Variant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team16877Code/src/main/java/org/firstinspires/ftc/Team16877Code/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/src/main/java/org/firstinspires/ftc/Team16877Code/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team16877Code/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team16877Code/src/main/res/xml/teamwebcamcalibrations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/src/main/res/xml/teamwebcamcalibrations.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +90,6 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="ZY2257GWGR" />
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
@@ -54,92 +99,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Team16877Code/src/main/java/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Blue_First_Variant.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="263">
-              <caret line="110" column="25" lean-forward="true" selection-start-line="110" selection-start-column="25" selection-end-line="110" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Team16877Code/src/main/java/org/firstinspires/ftc/Team16877Code/OpMOde.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="126" column="39" selection-start-line="126" selection-start-column="39" selection-end-line="126" selection-end-column="39" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Team16877Code/src/main/java/org/firstinspires/ftc/Team16877Code/AutonautsAPI.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1056">
-              <caret line="59" selection-start-line="59" selection-end-line="61" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#runForward#0;class#AutonautsAPI#0" />
-                <element signature="method#runRight#0;class#AutonautsAPI#0" />
-                <element signature="method#runRightPos#0;class#AutonautsAPI#0" />
-                <element signature="method#runLeft#0;class#AutonautsAPI#0" />
-                <element signature="method#runLeftDetectSkyStone#0;class#AutonautsAPI#0" />
-                <element signature="method#runBack#0;class#AutonautsAPI#0" />
-                <element signature="method#initVuforia#0;class#AutonautsAPI#0" />
-                <element signature="method#initTfod#0;class#AutonautsAPI#0" />
-                <element signature="method#skyStoneDetect#0;class#AutonautsAPI#0" />
-                <element signature="method#gettingServo#0;class#AutonautsAPI#0" />
-                <element signature="method#setFoundation#0;class#AutonautsAPI#0" />
-                <element signature="method#getSkyStone#0;class#AutonautsAPI#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Team16877Code/src/main/java/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Red_First_Variant.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="696">
-              <caret line="45" column="33" selection-start-line="45" selection-start-column="33" selection-end-line="45" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Team16877Code/src/main/java/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Blue_Second_Variant.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="936">
-              <caret line="54" column="34" selection-start-line="54" selection-start-column="34" selection-end-line="54" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Team16877Code/src/main/java/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Red_Second_Variant.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="672">
-              <caret line="43" column="27" selection-start-line="43" selection-start-column="27" selection-end-line="43" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Team16877Code/src/main/java/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Blue_Third_Variant.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="696">
-              <caret line="44" column="29" selection-start-line="44" selection-start-column="29" selection-end-line="44" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Team16877Code/src/main/java/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Red_Third_Variant.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="672">
-              <caret line="43" column="27" selection-start-line="43" selection-start-column="27" selection-end-line="43" selection-end-column="27" />
+            <state relative-caret-position="144">
+              <caret line="136" column="16" lean-forward="true" selection-start-line="136" selection-start-column="16" selection-end-line="136" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -157,15 +121,13 @@
     <findStrings>
       <find>getServo</find>
       <find>//</find>
+      <find>static</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="PATH_TO_GIT" value="C:\Program Files\Git\bin\git.exe" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Team16877Code/src/main/java/org/firstinspires/ftc/Team16877Code/BasicOpMode_V3.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -187,17 +149,17 @@
         <option value="$PROJECT_DIR$/Team16877Code/src/main/java/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Blue_Third_Variant.java" />
         <option value="$PROJECT_DIR$/Team16877Code/src/main/java/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Red_First_Variant.java" />
         <option value="$PROJECT_DIR$/Team16877Code/src/main/java/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Blue_Second_Variant.java" />
-        <option value="$PROJECT_DIR$/Team16877Code/src/main/java/org/firstinspires/ftc/Team16877Code/AutonautsAPI.java" />
         <option value="$PROJECT_DIR$/Team16877Code/src/main/java/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Blue_First_Variant.java" />
+        <option value="$PROJECT_DIR$/Team16877Code/src/main/java/org/firstinspires/ftc/Team16877Code/AutonautsAPI.java" />
         <option value="$PROJECT_DIR$/Team16877Code/src/main/java/org/firstinspires/ftc/Team16877Code/OpMOde.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="240" />
-    <option name="y" value="126" />
-    <option name="width" value="1440" />
-    <option name="height" value="765" />
+    <option name="x" value="243" />
+    <option name="y" value="-12" />
+    <option name="width" value="2160" />
+    <option name="height" value="1149" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -207,6 +169,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -249,33 +213,11 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="Team16877Code" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="FTC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FTC" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="Team16877Code" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Team16877Code" type="462c0819:PsiDirectoryNode" />
-              <item name="Parking" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FTC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FTC" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="Team16877Code" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Team16877Code" type="462c0819:PsiDirectoryNode" />
-              <item name="SkySonesTaking" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -439,6 +381,14 @@
       <option name="presentableId" value="Default" />
       <updated>1581614422595</updated>
     </task>
+    <task id="LOCAL-00001" summary="g">
+      <created>1582119180882</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582119180882</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -457,8 +407,8 @@
       <window_info anchor="bottom" id="Version Control" order="0" sideWeight="0.49726775" weight="0.32857144" />
       <window_info anchor="bottom" id="TODO" order="1" />
       <window_info anchor="bottom" id="Terminal" order="2" />
-      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.5027322" side_tool="true" weight="0.32857144" />
-      <window_info anchor="bottom" id="Build" order="4" sideWeight="0.49960968" visible="true" weight="0.1" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.5027322" side_tool="true" weight="0.071428575" />
+      <window_info anchor="bottom" id="Build" order="4" sideWeight="0.49726775" visible="true" weight="0.071428575" />
       <window_info anchor="bottom" id="Android Profiler" order="5" show_stripe_button="false" />
       <window_info anchor="bottom" id="Logcat" order="6" />
       <window_info anchor="bottom" id="Run" order="7" weight="0.34464285" />
@@ -474,6 +424,10 @@
       <window_info anchor="right" id="Codota" order="5" weight="0.32943013" />
     </layout>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="g" />
+    <option name="LAST_COMMIT_MESSAGE" value="g" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/readme.md" />
     <entry file="file://$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/team16877/readme.md" />
@@ -483,9 +437,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="148">
           <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -504,20 +455,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="71" column="23" lean-forward="true" selection-start-line="71" selection-start-column="23" selection-end-line="71" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#runForward#0;class#BasicOpMode_V3#0" />
-            <element signature="method#runRight#0;class#BasicOpMode_V3#0" />
-            <element signature="method#runRightPos#0;class#BasicOpMode_V3#0" />
-            <element signature="method#runLeft#0;class#BasicOpMode_V3#0" />
-            <element signature="method#runLeftDetectSkyStone#0;class#BasicOpMode_V3#0" />
-            <element signature="method#runBack#0;class#BasicOpMode_V3#0" />
-            <element signature="method#initTfod#0;class#BasicOpMode_V3#0" />
-            <element signature="method#skyStoneDetect#0;class#BasicOpMode_V3#0" />
-            <element signature="method#gettingServo#0;class#BasicOpMode_V3#0" />
-            <element signature="method#setFoundation#0;class#BasicOpMode_V3#0" />
-            <element signature="method#getSkyStone#0;class#BasicOpMode_V3#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -532,13 +469,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1704">
           <caret line="265" column="27" lean-forward="true" selection-start-line="265" selection-start-column="27" selection-end-line="265" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#runBack#0;class#BasicOpMode_Linear#0" />
-            <element signature="method#runLeft#0;class#BasicOpMode_Linear#0" />
-            <element signature="method#runForward#0;class#BasicOpMode_Linear#0" />
-            <element signature="method#runRight#0;class#BasicOpMode_Linear#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -588,12 +518,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24">
           <caret line="1" selection-start-line="1" selection-end-line="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#runRight#0;class#BasicOpMode_V2#0" />
-            <element signature="method#runLeft#0;class#BasicOpMode_V2#0" />
-            <element signature="method#runBack#0;class#BasicOpMode_V2#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -647,30 +571,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Team16877Code/src/main/java/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Blue_First_Variant.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="110" column="25" lean-forward="true" selection-start-line="110" selection-start-column="25" selection-end-line="110" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Team16877Code/src/main/java/org/firstinspires/ftc/Team16877Code/AutonautsAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1056">
-          <caret line="59" selection-start-line="59" selection-end-line="61" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#runForward#0;class#AutonautsAPI#0" />
-            <element signature="method#runRight#0;class#AutonautsAPI#0" />
-            <element signature="method#runRightPos#0;class#AutonautsAPI#0" />
-            <element signature="method#runLeft#0;class#AutonautsAPI#0" />
-            <element signature="method#runLeftDetectSkyStone#0;class#AutonautsAPI#0" />
-            <element signature="method#runBack#0;class#AutonautsAPI#0" />
-            <element signature="method#initVuforia#0;class#AutonautsAPI#0" />
-            <element signature="method#initTfod#0;class#AutonautsAPI#0" />
-            <element signature="method#skyStoneDetect#0;class#AutonautsAPI#0" />
-            <element signature="method#gettingServo#0;class#AutonautsAPI#0" />
-            <element signature="method#setFoundation#0;class#AutonautsAPI#0" />
-            <element signature="method#getSkyStone#0;class#AutonautsAPI#0" />
-          </folding>
+        <state relative-caret-position="2280">
+          <caret line="110" column="25" selection-start-line="110" selection-start-column="25" selection-end-line="110" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -709,13 +611,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Team16877Code/src/main/java/org/firstinspires/ftc/Team16877Code/AutonautsAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="58" column="24" selection-start-line="58" selection-start-column="24" selection-end-line="58" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Team16877Code/SkySonesTaking/Blue_First_Variant.java" />
     <entry file="file://$PROJECT_DIR$/Team16877Code/src/main/java/org/firstinspires/ftc/Team16877Code/OpMOde.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="126" column="39" selection-start-line="126" selection-start-column="39" selection-end-line="126" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="144">
+          <caret line="136" column="16" lean-forward="true" selection-start-line="136" selection-start-column="16" selection-end-line="136" selection-end-column="16" />
         </state>
       </provider>
     </entry>
