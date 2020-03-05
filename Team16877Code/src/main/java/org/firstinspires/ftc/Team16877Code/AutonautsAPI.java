@@ -187,7 +187,11 @@ public class AutonautsAPI extends LinearOpMode {
 
 
     }
+<<<<<<< HEAD
     public void runRight(double meters,double power){
+=======
+    public void runLeft(double meters,double power){
+>>>>>>> 46c8ec2b098645c894c2822cc55c718320787745
         leftFront.setMode  (DcMotor.RunMode.STOP_AND_RESET_ENCODER);
         leftBack.setMode   (DcMotor.RunMode.STOP_AND_RESET_ENCODER);
         rightFront.setMode (DcMotor.RunMode.STOP_AND_RESET_ENCODER);
@@ -248,14 +252,7 @@ public class AutonautsAPI extends LinearOpMode {
         rightFront.setPower(-power);
         rightBack.setPower(-power);
 
-        while (leftFront.isBusy() && leftBack.isBusy() && rightFront.isBusy() && rightBack.isBusy()){
-//            telemetry.addData("WAITING","GOING");
-//            telemetry.addData("LF",  leftFront.getCurrentPosition());
-//            telemetry.addData("RF",  rightFront.getCurrentPosition());
-//            telemetry.addData("LB",  leftBack.getCurrentPosition());
-//            telemetry.addData("RB",  rightBack.getCurrentPosition());
-//            telemetry.update();
-        }
+        while (leftFront.isBusy() && leftBack.isBusy() && rightFront.isBusy() && rightBack.isBusy());
         rightBack.setPower(0);
         rightFront.setPower(0);
         leftBack.setPower(0);

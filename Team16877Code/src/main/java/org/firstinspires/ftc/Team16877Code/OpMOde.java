@@ -74,10 +74,18 @@ public class OpMOde extends LinearOpMode {
 
         while (opModeIsActive()) {
             if ((gamepad1.right_stick_y != 0) || (gamepad1.left_stick_y != 0)) { //Control by sticks
-                leftFrontPower = (-gamepad1.left_stick_y);
-                leftBackPower = (-gamepad1.left_stick_y);
-                rightFrontPower = (gamepad1.right_stick_y);
-                rightBackPower = (gamepad1.right_stick_y);
+                if(!reverseControl){
+                    leftFrontPower = (-gamepad1.left_stick_y);
+                    leftBackPower = (-gamepad1.left_stick_y);
+                    rightFrontPower = (gamepad1.right_stick_y);
+                    rightBackPower = (gamepad1.right_stick_y);
+                } else {
+                    leftFrontPower = (-gamepad1.right_stick_y);
+                    leftBackPower = (-gamepad1.right_stick_y);
+                    rightFrontPower = (gamepad1.left_stick_y);
+                    rightBackPower = (gamepad1.left_stick_y);
+                }
+
             } else if (gamepad1.dpad_up && !gamepad1.dpad_down && !gamepad1.dpad_right && !gamepad1.dpad_left) { // Move forward
                 leftFrontPower = (0.5);
                 leftBackPower = (0.5);
@@ -145,10 +153,10 @@ public class OpMOde extends LinearOpMode {
             }
 
             if (reverseControl) {
-                leftFrontPower*=-1;
-                rightFrontPower*=-1;
-                leftBackPower*=-1;
-                rightBackPower*=-1;
+                leftFrontPower *=-1;
+                rightFrontPower *=-1;
+                leftBackPower *=-1;
+                rightBackPower *=-1;
             }
 
             leftFront.setPower(leftFrontPower);
