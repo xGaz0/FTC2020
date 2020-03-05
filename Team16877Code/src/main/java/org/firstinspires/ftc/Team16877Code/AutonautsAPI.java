@@ -149,7 +149,7 @@ public class AutonautsAPI extends LinearOpMode {
 
 
     }
-    public void runRight(double meters,double power){
+    public void runLeft(double meters,double power){
         leftFront.setMode  (DcMotor.RunMode.STOP_AND_RESET_ENCODER);
         leftBack.setMode   (DcMotor.RunMode.STOP_AND_RESET_ENCODER);
         rightFront.setMode (DcMotor.RunMode.STOP_AND_RESET_ENCODER);
@@ -187,45 +187,7 @@ public class AutonautsAPI extends LinearOpMode {
 
 
     }
-    public void runRightPos(int pos,double power){
-        leftFront.setMode  (DcMotor.RunMode.STOP_AND_RESET_ENCODER);
-        leftBack.setMode   (DcMotor.RunMode.STOP_AND_RESET_ENCODER);
-        rightFront.setMode (DcMotor.RunMode.STOP_AND_RESET_ENCODER);
-        rightBack.setMode  (DcMotor.RunMode.STOP_AND_RESET_ENCODER);
-
-
-
-        leftFront.setTargetPosition(pos);
-        leftBack.setTargetPosition(-pos);
-        rightFront.setTargetPosition(pos);
-        rightBack.setTargetPosition(-pos);
-
-        leftFront.setMode  (DcMotor.RunMode.RUN_TO_POSITION);
-        leftBack.setMode   (DcMotor.RunMode.RUN_TO_POSITION);
-        rightFront.setMode (DcMotor.RunMode.RUN_TO_POSITION);
-        rightBack.setMode  (DcMotor.RunMode.RUN_TO_POSITION);
-
-        leftFront.setPower(-power);
-        leftBack.setPower(power);
-        rightFront.setPower(-power);
-        rightBack.setPower(power);
-
-        while (leftFront.isBusy() && leftBack.isBusy() && rightFront.isBusy() && rightBack.isBusy()){
-//            telemetry.addData("WAITING","GOING");
-//            telemetry.addData("LF",  leftFront.getCurrentPosition());
-//            telemetry.addData("RF",  rightFront.getCurrentPosition());
-//            telemetry.addData("LB",  leftBack.getCurrentPosition());
-//            telemetry.addData("RB",  rightBack.getCurrentPosition());
-//            telemetry.update();
-        }
-        rightBack.setPower(0);
-        rightFront.setPower(0);
-        leftBack.setPower(0);
-        leftFront.setPower(0);
-
-
-    }
-    public void runLeft(double meters,double power){
+    public void runRight(double meters,double power){
         leftFront.setMode  (DcMotor.RunMode.STOP_AND_RESET_ENCODER);
         leftBack.setMode   (DcMotor.RunMode.STOP_AND_RESET_ENCODER);
         rightFront.setMode (DcMotor.RunMode.STOP_AND_RESET_ENCODER);
@@ -249,62 +211,6 @@ public class AutonautsAPI extends LinearOpMode {
         rightBack.setPower(-power);
 
         while (leftFront.isBusy() && leftBack.isBusy() && rightFront.isBusy() && rightBack.isBusy()){
-//            telemetry.addData("WAITING","GOING");
-//            telemetry.addData("LF",  leftFront.getCurrentPosition());
-//            telemetry.addData("RF",  rightFront.getCurrentPosition());
-//            telemetry.addData("LB",  leftBack.getCurrentPosition());
-//            telemetry.addData("RB",  rightBack.getCurrentPosition());
-//            telemetry.update();
-        }
-        rightBack.setPower(0);
-        rightFront.setPower(0);
-        leftBack.setPower(0);
-        leftFront.setPower(0);
-
-
-    }
-    public void runLeftDetectSkyStone(double meters,double power){
-        leftFront.setMode  (DcMotor.RunMode.STOP_AND_RESET_ENCODER);
-        leftBack.setMode   (DcMotor.RunMode.STOP_AND_RESET_ENCODER);
-        rightFront.setMode (DcMotor.RunMode.STOP_AND_RESET_ENCODER);
-        rightBack.setMode  (DcMotor.RunMode.STOP_AND_RESET_ENCODER);
-
-
-        leftFront.setTargetPosition((int)(-MOTOR_TO_REV_TICKS*(meters/DIAMETR_WHEEL_SIDE)));
-        leftBack.setTargetPosition((int)(MOTOR_TO_REV_TICKS*(meters/DIAMETR_WHEEL_SIDE)));
-        rightFront.setTargetPosition((int)(-MOTOR_TO_REV_TICKS*(meters/DIAMETR_WHEEL_SIDE)));
-        rightBack.setTargetPosition((int)(MOTOR_TO_REV_TICKS*(meters/DIAMETR_WHEEL_SIDE)));
-
-        leftFront.setMode  (DcMotor.RunMode.RUN_TO_POSITION);
-        leftBack.setMode   (DcMotor.RunMode.RUN_TO_POSITION);
-        rightFront.setMode (DcMotor.RunMode.RUN_TO_POSITION);
-        rightBack.setMode  (DcMotor.RunMode.RUN_TO_POSITION);
-
-        leftFront.setPower(power);
-        leftBack.setPower(-power);
-        rightFront.setPower(power);
-        rightBack.setPower(-power);
-
-        while (leftFront.isBusy() && leftBack.isBusy() && rightFront.isBusy() && rightBack.isBusy()){
-            if(skyStoneDetect()){
-
-                rightBack.setPower(0);
-                rightFront.setPower(0);
-                leftBack.setPower(0);
-                leftFront.setPower(0);
-
-                int posSkyStone = abs(leftFront.getCurrentPosition());
-
-                leftFront.setMode  (DcMotor.RunMode.STOP_AND_RESET_ENCODER);
-                leftBack.setMode   (DcMotor.RunMode.STOP_AND_RESET_ENCODER);
-                rightFront.setMode (DcMotor.RunMode.STOP_AND_RESET_ENCODER);
-                rightBack.setMode  (DcMotor.RunMode.STOP_AND_RESET_ENCODER);
-
-                getSkyStone();
-                runRightPos(posSkyStone,0.5);
-                liftServo(false);
-
-            }
 //            telemetry.addData("WAITING","GOING");
 //            telemetry.addData("LF",  leftFront.getCurrentPosition());
 //            telemetry.addData("RF",  rightFront.getCurrentPosition());
@@ -357,39 +263,6 @@ public class AutonautsAPI extends LinearOpMode {
 
 
     }
-    public void initVuforia() {
-        VuforiaLocalizer.Parameters parameters = new VuforiaLocalizer.Parameters();
-
-        parameters.vuforiaLicenseKey = VUFORIA_KEY;
-        parameters.cameraDirection = VuforiaLocalizer.CameraDirection.BACK;
-
-        vuforia = ClassFactory.getInstance().createVuforia(parameters);
-    }
-    public void initTfod() {
-        int tfodMonitorViewId = hardwareMap.appContext.getResources().getIdentifier(
-                "tfodMonitorViewId", "id", hardwareMap.appContext.getPackageName());
-        TFObjectDetector.Parameters tfodParameters = new TFObjectDetector.Parameters(tfodMonitorViewId);
-        tfodParameters.minimumConfidence = 0.8;
-        tfod = ClassFactory.getInstance().createTFObjectDetector(tfodParameters, vuforia);
-        tfod.loadModelFromAsset(TFOD_MODEL_ASSET, LABEL_FIRST_ELEMENT, LABEL_SECOND_ELEMENT);
-    }
-    public boolean skyStoneDetect(){
-        List<Recognition> updatedRecognitions = tfod.getUpdatedRecognitions();
-        if (updatedRecognitions != null) {
-            for (Recognition recognition : updatedRecognitions) {
-                if(recognition.getLabel().equals(LABEL_SECOND_ELEMENT)) {
-                    if (abs((int) ((recognition.getTop() + recognition.getBottom()) / 2) - 627) < 40) {
-                        return true;
-                    } else if (((recognition.getTop() + recognition.getBottom()) / 2) - 627 >= 40) {
-                        return false;
-                    } else if (((recognition.getTop() + recognition.getBottom()) / 2) - 627 <= -40) {
-                        return false;
-                    }
-                }
-            }
-        }
-        return false;
-    }
     public void liftServo(boolean i){
         if(i) liftservo.setPosition(0.8);
         else liftservo.setPosition(0.3);
@@ -402,13 +275,6 @@ public class AutonautsAPI extends LinearOpMode {
             foundation1.setPosition(1);
             foundation2.setPosition(0);
         }
-    }
-    public void getSkyStone(){
-        runForward(0.65,0.5);
-        sleep(100);
-        liftServo(true);
-        sleep(250);
-        runBack(0.65,0.5);
     }
     public void turnTo(int wantAngle, double power) {
 
