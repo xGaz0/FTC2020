@@ -5,81 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ad4e553-a176-4b05-8bb3-0a6cc27d689f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/fileContent/fileContent.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/classAnalysis.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/jarAnalysis.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/javaCompile.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/taskHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Team16877Code/Team16877Code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/Team16877Code.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Team16877Code/TeamCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/TeamCode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Team16877Code/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Team16877Code/build.release.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/build.release.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Team16877Code/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/android/arch/lifecycle/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/android/arch/lifecycle/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Team16877Code/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/android/support/compat/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/android/support/compat/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Team16877Code/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/androidx/versionedparcelable/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/androidx/versionedparcelable/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Team16877Code/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/google/blocks/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/google/blocks/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Team16877Code/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/google/blocks/ftcrobotcontroller/onbotjava/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/google/blocks/ftcrobotcontroller/onbotjava/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Team16877Code/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/google/ftcresearch/tfod/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/google/ftcresearch/tfod/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Team16877Code/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/qualcomm/WirelessP2p/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/qualcomm/WirelessP2p/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Team16877Code/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/qualcomm/ftccommon/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/qualcomm/ftccommon/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Team16877Code/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/qualcomm/ftcrobotcontroller/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/qualcomm/ftcrobotcontroller/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Team16877Code/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/qualcomm/hardware/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/qualcomm/hardware/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Team16877Code/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/qualcomm/robotcore/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/qualcomm/robotcore/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Team16877Code/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/org/firstinspires/ftc/robotcore/internal/webserver/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/org/firstinspires/ftc/robotcore/internal/webserver/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Team16877Code/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/org/firstinspires/inspection/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/org/firstinspires/inspection/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Team16877Code/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/org/tensorflow/lite/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/org/tensorflow/lite/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Team16877Code/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Team16877Code/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Team16877Code/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Team16877Code/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/My9JkFiQTaIthIp01PbHixcNYhg=" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/My9JkFiQTaIthIp01PbHixcNYhg=" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Team16877Code/build/intermediates/javac/debug/classes/org/firstinspires/ftc/Team16877Code/AutonautsAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/build/intermediates/javac/debug/classes/org/firstinspires/ftc/Team16877Code/AutonautsAPI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Team16877Code/build/intermediates/javac/debug/classes/org/firstinspires/ftc/Team16877Code/OpMOde.class" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/build/intermediates/javac/debug/classes/org/firstinspires/ftc/Team16877Code/OpMOde.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Team16877Code/build/intermediates/javac/debug/classes/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Blue_First_Variant.class" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/build/intermediates/javac/debug/classes/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Blue_First_Variant.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Team16877Code/build/intermediates/javac/debug/classes/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Blue_Second_Variant.class" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/build/intermediates/javac/debug/classes/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Blue_Second_Variant.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Team16877Code/build/intermediates/javac/debug/classes/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Blue_Third_Variant.class" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/build/intermediates/javac/debug/classes/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Blue_Third_Variant.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Team16877Code/build/intermediates/javac/debug/classes/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Red_First_Variant.class" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/build/intermediates/javac/debug/classes/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Red_First_Variant.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Team16877Code/build/intermediates/javac/debug/classes/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Red_Second_Variant.class" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/build/intermediates/javac/debug/classes/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Red_Second_Variant.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Team16877Code/build/intermediates/javac/debug/classes/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Red_Third_Variant.class" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/build/intermediates/javac/debug/classes/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Red_Third_Variant.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Team16877Code/build/intermediates/merged_java_res/debug/out.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/build/intermediates/merged_java_res/debug/out.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Team16877Code/build/intermediates/transforms/dexBuilder/debug/0/org/firstinspires/ftc/Team16877Code/AutonautsAPI.dex" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/build/intermediates/transforms/dexBuilder/debug/0/org/firstinspires/ftc/Team16877Code/AutonautsAPI.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Team16877Code/build/intermediates/transforms/dexBuilder/debug/0/org/firstinspires/ftc/Team16877Code/OpMOde.dex" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/build/intermediates/transforms/dexBuilder/debug/0/org/firstinspires/ftc/Team16877Code/OpMOde.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Team16877Code/build/intermediates/transforms/dexBuilder/debug/0/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Blue_First_Variant.dex" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/build/intermediates/transforms/dexBuilder/debug/0/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Blue_First_Variant.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Team16877Code/build/intermediates/transforms/dexBuilder/debug/0/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Blue_Second_Variant.dex" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/build/intermediates/transforms/dexBuilder/debug/0/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Blue_Second_Variant.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Team16877Code/build/intermediates/transforms/dexBuilder/debug/0/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Blue_Third_Variant.dex" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/build/intermediates/transforms/dexBuilder/debug/0/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Blue_Third_Variant.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Team16877Code/build/intermediates/transforms/dexBuilder/debug/0/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Red_First_Variant.dex" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/build/intermediates/transforms/dexBuilder/debug/0/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Red_First_Variant.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Team16877Code/build/intermediates/transforms/dexBuilder/debug/0/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Red_Second_Variant.dex" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/build/intermediates/transforms/dexBuilder/debug/0/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Red_Second_Variant.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Team16877Code/build/intermediates/transforms/dexBuilder/debug/0/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Red_Third_Variant.dex" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/build/intermediates/transforms/dexBuilder/debug/0/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Red_Third_Variant.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Team16877Code/build/outputs/apk/debug/Team16877Code-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/build/outputs/apk/debug/Team16877Code-debug.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Team16877Code/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Team16877Code/src/main/java/org/firstinspires/ftc/Team16877Code/AutonautsAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/src/main/java/org/firstinspires/ftc/Team16877Code/AutonautsAPI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Team16877Code/src/main/java/org/firstinspires/ftc/Team16877Code/OpMOde.java" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/src/main/java/org/firstinspires/ftc/Team16877Code/OpMOde.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Team16877Code/src/main/java/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Blue_First_Variant.java" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/src/main/java/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Blue_First_Variant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Team16877Code/src/main/java/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Blue_Second_Variant.java" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/src/main/java/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Blue_Second_Variant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Team16877Code/src/main/java/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Blue_Third_Variant.java" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/src/main/java/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Blue_Third_Variant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Team16877Code/src/main/java/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Red_First_Variant.java" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/src/main/java/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Red_First_Variant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Team16877Code/src/main/java/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Red_Second_Variant.java" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/src/main/java/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Red_Second_Variant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Team16877Code/src/main/java/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Red_Third_Variant.java" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/src/main/java/org/firstinspires/ftc/Team16877Code/SkySonesTaking/Red_Third_Variant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Team16877Code/src/main/java/org/firstinspires/ftc/Team16877Code/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/src/main/java/org/firstinspires/ftc/Team16877Code/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Team16877Code/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/src/main/res/values/strings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Team16877Code/src/main/res/xml/teamwebcamcalibrations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Team16877Code/src/main/res/xml/teamwebcamcalibrations.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -102,8 +29,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Team16877Code/src/main/java/org/firstinspires/ftc/Team16877Code/OpMOde.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="136" column="16" lean-forward="true" selection-start-line="136" selection-start-column="16" selection-end-line="136" selection-end-column="16" />
+            <state relative-caret-position="27">
+              <caret line="193" column="18" lean-forward="true" selection-start-line="193" selection-start-column="18" selection-end-line="193" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -388,7 +315,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582119180882</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="9:22">
+      <created>1583349755392</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1583349755393</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -426,7 +360,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="g" />
-    <option name="LAST_COMMIT_MESSAGE" value="g" />
+    <MESSAGE value="9:22" />
+    <option name="LAST_COMMIT_MESSAGE" value="9:22" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/readme.md" />
@@ -621,8 +556,8 @@
     <entry file="file://$PROJECT_DIR$/Team16877Code/SkySonesTaking/Blue_First_Variant.java" />
     <entry file="file://$PROJECT_DIR$/Team16877Code/src/main/java/org/firstinspires/ftc/Team16877Code/OpMOde.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="136" column="16" lean-forward="true" selection-start-line="136" selection-start-column="16" selection-end-line="136" selection-end-column="16" />
+        <state relative-caret-position="27">
+          <caret line="193" column="18" lean-forward="true" selection-start-line="193" selection-start-column="18" selection-end-line="193" selection-end-column="18" />
         </state>
       </provider>
     </entry>

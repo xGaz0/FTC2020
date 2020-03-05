@@ -18,7 +18,6 @@ public class OpMOde extends LinearOpMode {
     private DcMotorSimple liftMotor;
     private DcMotorSimple parkingMotor;
 
-    private Servo getServo;
     private Servo foundation1;
     private Servo foundation2;
     private Servo liftservo;
@@ -75,17 +74,10 @@ public class OpMOde extends LinearOpMode {
 
         while (opModeIsActive()) {
             if ((gamepad1.right_stick_y != 0) || (gamepad1.left_stick_y != 0)) { //Control by sticks
-                if (!reverseControl) {
-                    leftFrontPower = (-gamepad1.left_stick_y);
-                    leftBackPower = (-gamepad1.left_stick_y);
-                    rightFrontPower = (gamepad1.right_stick_y);
-                    rightBackPower = (gamepad1.right_stick_y);
-                } else {
-                    leftFrontPower = (-gamepad1.right_stick_y);
-                    leftBackPower = (-gamepad1.right_stick_y);
-                    rightFrontPower = (gamepad1.left_stick_y);
-                    rightBackPower = (gamepad1.left_stick_y);
-                }
+                leftFrontPower = (-gamepad1.left_stick_y);
+                leftBackPower = (-gamepad1.left_stick_y);
+                rightFrontPower = (gamepad1.right_stick_y);
+                rightBackPower = (gamepad1.right_stick_y);
             } else if (gamepad1.dpad_up && !gamepad1.dpad_down && !gamepad1.dpad_right && !gamepad1.dpad_left) { // Move forward
                 leftFrontPower = (0.5);
                 leftBackPower = (0.5);
@@ -134,18 +126,14 @@ public class OpMOde extends LinearOpMode {
             }
 
             if (gamepad1.b && !bWasPressed) {
-                if (reverseControl) {
-                    bWasPressed = true;
-                    reverseControl = !reverseControl;
-                }
+                bWasPressed = true;
+                reverseControl = !reverseControl;
             } else if (!gamepad1.b) {
                 bWasPressed = false;
             }
             if (gamepad1.x && !xWasPressed) {
-                if (reverseControl) {
-                    xWasPressed = true;
-                    changePower = !changePower;
-                }
+                xWasPressed = true;
+                changePower = !changePower;
             } else if (!gamepad1.x) {
                 xWasPressed = false;
             }
@@ -157,58 +145,62 @@ public class OpMOde extends LinearOpMode {
             }
 
             if (reverseControl) {
-                leftFront.setPower(-leftFrontPower);
-                rightFront.setPower(-rightFrontPower);
-                leftBack.setPower(-leftBackPower);
-                rightBack.setPower(-rightBackPower);
-            } else {
-                leftFront.setPower(leftFrontPower);
-                rightFront.setPower(rightFrontPower);
-                leftBack.setPower(leftBackPower);
-                rightBack.setPower(rightBackPower);
+                leftFrontPower*=-1;
+                rightFrontPower*=-1;
+                leftBackPower*=-1;
+                rightBackPower*=-1;
+            }
+
+            leftFront.setPower(leftFrontPower);
+            rightFront.setPower(rightFrontPower);
+            leftBack.setPower(leftBackPower);
+            rightBack.setPower(rightBackPower);
 
 
                 //lift servo control
-                if (gamepad1.right_bumper && !rightBumperWasPressed) {
-                    if (liftservo.getPosition() != 0.8) {
-                        rightBumperWasPressed = true;
-                        liftservo.setPosition(0.8);
-                    } else {
-                        rightBumperWasPressed = true;
-                        liftservo.setPosition(0.3);
-                    }
-                } else if (!gamepad1.right_bumper) {
-                    rightBumperWasPressed = false;
+            if (gamepad1.right_bumper && !rightBumperWasPressed) {
+                if (liftservo.getPosition() != 0.8) {
+                    rightBumperWasPressed = true;
+                    liftservo.setPosition(0.8);
+                } else {
+                    rightBumperWasPressed = true;
+                    liftservo.setPosition(0.3);
                 }
+            }else if (!gamepad1.right_bumper) {
+                rightBumperWasPressed = false;
+            }
 
-                if (gamepad1.left_bumper && !leftBumperWasPressed) {
-                    if (foundation1.getPosition() < 0.05) {
-                        leftBumperWasPressed = true;
-                        foundation1.setPosition(1);
-                        foundation2.setPosition(0);
-                    } else {
-                        leftBumperWasPressed = true;
-                        foundation1.setPosition(0);
-                        foundation2.setPosition(1);
-                    }
-                } else if (!gamepad1.left_bumper) {
-                    leftBumperWasPressed = false;
+            if (gamepad1.left_bumper && !leftBumperWasPressed) {
+                if (foundation1.getPosition() < 0.05) {
+                    leftBumperWasPressed = true;
+                    foundation1.setPosition(1);
+                    foundation2.setPosition(0);
+                } else {
+                    leftBumperWasPressed = true;
+                    foundation1.setPosition(0);
+                    foundation2.setPosition(1);
                 }
+            } else if (!gamepad1.left_bumper) {
+                leftBumperWasPressed = false;
+            }
 
                 //lift control
-                if (gamepad1.a) {
-                    liftMotor.setPower(1);
-                } else {
-                    liftMotor.setPower(0);
-                }
-                if (gamepad1.y) {
-                    liftMotor.setPower(-1);
-                } else {
-                    liftMotor.setPower(0);
-                }
-
-                telemetry.addData("changePower", changePower);
-                telemetry.update();
+            if (gamepad1.left_trigger > 0) {
+                liftMotor.setPower(gamepad1.left_trigger);
+            }
+            else if (gamepad1.right_trigger > 0) {
+                liftMotor.setPower(-gamepad1.right_trigger);
+            }
+            else {
+                liftMotor.setPower(0);
+            }
+            if (gamepad1.a){
+                parkingMotor.setPower(1);
+            }else if (gamepad1.y){
+                parkingMotor.setPower(-1);
+            }
+            else{
+                parkingMotor.setPower(0);
             }
         }
     }
